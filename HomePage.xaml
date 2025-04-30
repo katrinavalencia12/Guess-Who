@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GuessWho.HomePage"
+             Title="HomePage">
+    <ScrollView>
+        <VerticalStackLayout HorizontalOptions="Center">
+            <ListView x:Name="personListView" HasUnevenRows="True" Background="LightBlue" ItemTapped="personListView_ItemTapped">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <HorizontalStackLayout Spacing="20" Padding="20">
+                                <Image Source="{Binding ImageUrl}"/>
+                                <Label Text="{Binding Name}" FontSize="24" VerticalOptions="Center"/>
+                                <Switch x:Name="personToggle" OnColor="red" Toggled="personToggle_Toggled" IsToggled="{Binding IsSelected}"/>
+                            </HorizontalStackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Text="Add New Person" Clicked="Add_New_Button_Clicked" HorizontalOptions="Center"/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
