@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{52A462A3-3266-486C-94D7-3056131284B6}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GuessWho/gamePage.xaml.cs">
+    <Files>
+      <File FileName="GuessWho/App.xaml.cs" Line="10" Column="48" />
+      <File FileName="GuessWho/HomePage.xaml" Line="21" Column="104" />
+      <File FileName="GuessWho/HomePage.xaml.cs" Line="91" Column="6" />
+      <File FileName="GuessWho/gamePage.xaml" Line="3" Column="37" />
+      <File FileName="GuessWho/gamePage.xaml.cs" Line="82" Column="78" />
+      <File FileName="GuessWho/ChoosingPage.xaml" Line="8" Column="83" />
+      <File FileName="GuessWho/ChoosingPage.xaml.cs" Line="67" Column="11" />
+      <File FileName="GuessWho/startPage.xaml" Line="16" Column="1" />
+      <File FileName="GuessWho/startPage.xaml.cs" Line="15" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GuessWho" expanded="True">
+            <Node name="GuessWho" expanded="True">
+              <Node name="Platforms" expanded="True">
+                <Node name="MacCatalyst" expanded="True" />
+              </Node>
+              <Node name="ChoosingPage.xaml" expanded="True" />
+              <Node name="gamePage.xaml" expanded="True">
+                <Node name="gamePage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="HomePage.xaml" expanded="True" />
+              <Node name="startPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>navigation</Value>
+          <Value>ObservableCollection</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GuessWho Xamarin.HotReload.DebuggerTimeoutException.GuessWho.HideInfoBar="True" PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

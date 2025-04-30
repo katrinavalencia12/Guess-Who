@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="GuessWho.app/Contents/MacOS/GuessWho">
+      <BCSymbolMapName>GuessWho.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>GuessWho.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/katrinavalencia/Projects/GuessWho/GuessWho/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>GuessWho.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/katrinavalencia/Projects/GuessWho/GuessWho</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GuessWho
+build_property.ProjectDir = /Users/katrinavalencia/Projects/GuessWho/GuessWho/
+
+[/Users/katrinavalencia/Projects/GuessWho/GuessWho/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GuessWho.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/katrinavalencia/Projects/GuessWho/GuessWho/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GuessWho.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/katrinavalencia/Projects/GuessWho/GuessWho/ChoosingPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GuessWho.ChoosingPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ChoosingPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ChoosingPage.xaml
+
+[/Users/katrinavalencia/Projects/GuessWho/GuessWho/gamePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GuessWho.gamePage.xaml
+build_metadata.AdditionalFiles.TargetPath = gamePage.xaml
+build_metadata.AdditionalFiles.RelativePath = gamePage.xaml
+
+[/Users/katrinavalencia/Projects/GuessWho/GuessWho/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GuessWho.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = HomePage.xaml
+
+[/Users/katrinavalencia/Projects/GuessWho/GuessWho/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GuessWho.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/katrinavalencia/Projects/GuessWho/GuessWho/PersonDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GuessWho.PersonDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = PersonDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = PersonDetailPage.xaml
+
+[/Users/katrinavalencia/Projects/GuessWho/GuessWho/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GuessWho.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/katrinavalencia/Projects/GuessWho/GuessWho/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GuessWho.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/katrinavalencia/Projects/GuessWho/GuessWho/startPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GuessWho.startPage.xaml
+build_metadata.AdditionalFiles.TargetPath = startPage.xaml
+build_metadata.AdditionalFiles.RelativePath = startPage.xaml

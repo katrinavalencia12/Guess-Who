@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GuessWho.PersonDetailPage"
+             Title="PersonDetailPage">
+    <VerticalStackLayout>
+        <TableView>
+            <TableRoot>
+                <TableSection Title="Person Information:">
+                    <EntryCell Label="Name: " Text="{Binding Name}" Placeholder="Enter a name..."/>
+                    <EntryCell Label="Sex: " Text="{Binding Sex}" Placeholder="Enter a sex..."/>
+                    <EntryCell Label="Eye Color: " Text="{Binding EyeColor}" Placeholder="Enter an eye color..."/>
+                    <EntryCell Label="Hair Color: " Text="{Binding HairColor}" Placeholder="Enter a hair color..."/>
+                    <EntryCell Label="Wears Glasses: " Text="{Binding WearsGlasses}" Placeholder="Do they wear glasses?"/>
+                    <EntryCell Label="ImageUrl: " Text="{Binding ImageUrl}" Placeholder="Enter the image url..."/>
+                </TableSection>
+            </TableRoot>
+        </TableView>
+        <Button Text="Save Person" Clicked="SaveButtonClicked"/>
+    </VerticalStackLayout>
+</ContentPage>
